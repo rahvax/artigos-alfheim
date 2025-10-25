@@ -1,0 +1,2 @@
+# Artigos sobre C
+Aqui irei abordar temas sobre a linguagem C como dicas de estudos, boas referências, práticas e outros. Irei já afirmar que meu foco é C-ANSI e você deve lembrar disso ao ler meus conteúdos.
