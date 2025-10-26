@@ -20,6 +20,6 @@ Exemplos práticos e documentados do uso de C em cenários diversos como utilida
 ## Dicas
 Vou listar algumas dicas e macetes sobre a linguagem para te ensinar a economizar tempo ou reduzir o número de problemas que irá enfrentar.
 | Tópicos                       | Descrição                                                                                        | Link |
-|-------------------------------|--------------------------------------------------------------------------------------------------|      |
+|-------------------------------|--------------------------------------------------------------------------------------------------|------|
 | Leituras de string no `SCANF` | Vou explicar boas práticas para ler strings usando a função `SCANF()`                            |      |
 | Boas práticas Gerais          | Vamos abordar alguns conceitos de boas práticas gerais sobre o C-ANSI para te ajudar a programar |      |
