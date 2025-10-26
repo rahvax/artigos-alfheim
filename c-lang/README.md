@@ -15,10 +15,11 @@ Assuntos gerais para ajudar na sua compreensão sobre C e tópicos relacionados 
 Exemplos práticos e documentados do uso de C em cenários diversos como utilidades, ferramentas e outros.
 | Conteúdo | Descrição | Link |
 |----------|-----------|------|
+|          |           |      |
 
 ## Dicas
 Vou listar algumas dicas e macetes sobre a linguagem para te ensinar a economizar tempo ou reduzir o número de problemas que irá enfrentar.
-| Tópico			| Descrição                                                                                        | Link |
+| Tópicos                       | Descrição                                                                                        | Link |
 |-------------------------------|--------------------------------------------------------------------------------------------------|      |
 | Leituras de string no `SCANF` | Vou explicar boas práticas para ler strings usando a função `SCANF()`                            |      |
 | Boas práticas Gerais          | Vamos abordar alguns conceitos de boas práticas gerais sobre o C-ANSI para te ajudar a programar |      |
